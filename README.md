@@ -2,6 +2,10 @@
 
 Morel OS is a simple, simulated command-line operating system environment written in Python. It provides basic file system navigation, script execution, and system information display.
 
+## Website
+https://emorceb.wixsite.com/morel-os
+
+
 ## Features
 
 *   **File System Navigation:**
